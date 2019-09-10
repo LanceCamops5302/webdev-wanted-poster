@@ -1,0 +1,24 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 10px solid black;
+    width: 750px;
+    background-color: brown
+}
+
+h1 {
+font-size: 100;
+}
+
+h2 { 
+font-size: 50;
+}
+
+h3 {
+    font-size: 40;
+}
+
+h4 {
+    font-size: 50;
+    color: Palevioletred
+}
